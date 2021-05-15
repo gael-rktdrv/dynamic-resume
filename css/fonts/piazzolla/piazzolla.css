@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla SemiBold'), local('Piazzolla-SemiBold'), url('Piazzollasemibold.woff2') format('woff2'), url('Piazzollasemibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Thin Italic'), local('Piazzolla-ThinItalic'), url('Piazzollathinitalic.woff2') format('woff2'), url('Piazzollathinitalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Medium'), local('Piazzolla-Medium'), url('Piazzollamedium.woff2') format('woff2'), url('Piazzollamedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla ExtraBold'), local('Piazzolla-ExtraBold'), url('Piazzollaextrabold.woff2') format('woff2'), url('Piazzollaextrabold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla SemiBold Italic'), local('Piazzolla-SemiBoldItalic'), url('Piazzollasemibolditalic.woff2') format('woff2'), url('Piazzollasemibolditalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla ExtraLight Italic'), local('Piazzolla-ExtraLightItalic'), url('Piazzollaextralightitalic.woff2') format('woff2'), url('Piazzollaextralightitalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Bold'), local('Piazzolla-Bold'), url('Piazzollabold.woff2') format('woff2'), url('Piazzollabold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Regular'), local('Piazzolla-Regular'), url('Piazzollaregular.woff2') format('woff2'), url('Piazzollaregular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla ExtraLight'), local('Piazzolla-ExtraLight'), url('Piazzollaextralight.woff2') format('woff2'), url('Piazzollaextralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Light Italic'), local('Piazzolla-LightItalic'), url('Piazzollalightitalic.woff2') format('woff2'), url('Piazzollalightitalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Black Italic'), local('Piazzolla-BlackItalic'), url('Piazzollablackitalic.woff2') format('woff2'), url('Piazzollablackitalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Italic'), local('Piazzolla-Italic'), url('Piazzollaitalic.woff2') format('woff2'), url('Piazzollaitalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla ExtraBold Italic'), local('Piazzolla-ExtraBoldItalic'), url('Piazzollaextrabolditalic.woff2') format('woff2'), url('Piazzollaextrabolditalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Bold Italic'), local('Piazzolla-BoldItalic'), url('Piazzollabolditalic.woff2') format('woff2'), url('Piazzollabolditalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Thin'), local('Piazzolla-Thin'), url('Piazzollathin.woff2') format('woff2'), url('Piazzollathin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Black'), local('Piazzolla-Black'), url('Piazzollablack.woff2') format('woff2'), url('Piazzollablack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Medium Italic'), local('Piazzolla-MediumItalic'), url('Piazzollamediumitalic.woff2') format('woff2'), url('Piazzollamediumitalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Piazzolla';
+    src: local('Piazzolla Light'), local('Piazzolla-Light'), url('Piazzollalight.woff2') format('woff2'), url('Piazzollalight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}

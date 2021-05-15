@@ -639,7 +639,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonial/testimonial-bg8.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/testimonial/test-bg1.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -683,7 +683,7 @@ call-to-action .button {
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
-   font-size: 24px;
+   font-size: x-large;
    line-height: 48px;
    color: #fff
 }

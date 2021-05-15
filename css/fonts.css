@@ -69,19 +69,19 @@
 ================================================================================ */   
 @font-face {
     font-family: 'librebaskerville-bold';
-    src: url('fonts/zolina/Zolina-Bold.woff') format('woff');
+    src: url('fonts/piazzolla/Piazzollaextrabold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'librebaskerville-italic';
-    src: url('fonts/zolina/Zolina-Regular.woff') format('woff');
+    src: url('fonts/piazzolla/Piazzollabolditalic.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'librebaskerville-regular';
-    src: url('fonts/zolina/Zolina-Regular.woff') format('woff');
+    src: url('fonts/piazzolla/Piazzollaregular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
