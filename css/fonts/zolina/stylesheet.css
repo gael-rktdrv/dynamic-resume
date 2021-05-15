@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-Bold.eot');
+    src: local('Zolina Bold'), local('Zolina-Bold'),
+        url('Zolina-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-Bold.woff2') format('woff2'),
+        url('Zolina-Bold.woff') format('woff'),
+        url('Zolina-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-ExtraLight.eot');
+    src: local('Zolina ExtraLight'), local('Zolina-ExtraLight'),
+        url('Zolina-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-ExtraLight.woff2') format('woff2'),
+        url('Zolina-ExtraLight.woff') format('woff'),
+        url('Zolina-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-Medium.eot');
+    src: local('Zolina Medium'), local('Zolina-Medium'),
+        url('Zolina-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-Medium.woff2') format('woff2'),
+        url('Zolina-Medium.woff') format('woff'),
+        url('Zolina-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-Light.eot');
+    src: local('Zolina Light'), local('Zolina-Light'),
+        url('Zolina-Light.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-Light.woff2') format('woff2'),
+        url('Zolina-Light.woff') format('woff'),
+        url('Zolina-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-Black.eot');
+    src: local('Zolina Black'), local('Zolina-Black'),
+        url('Zolina-Black.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-Black.woff2') format('woff2'),
+        url('Zolina-Black.woff') format('woff'),
+        url('Zolina-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-ExtraBold.eot');
+    src: local('Zolina ExtraBold'), local('Zolina-ExtraBold'),
+        url('Zolina-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-ExtraBold.woff2') format('woff2'),
+        url('Zolina-ExtraBold.woff') format('woff'),
+        url('Zolina-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-Thin.eot');
+    src: local('Zolina Thin'), local('Zolina-Thin'),
+        url('Zolina-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-Thin.woff2') format('woff2'),
+        url('Zolina-Thin.woff') format('woff'),
+        url('Zolina-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-SemiBold.eot');
+    src: local('Zolina SemiBold'), local('Zolina-SemiBold'),
+        url('Zolina-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-SemiBold.woff2') format('woff2'),
+        url('Zolina-SemiBold.woff') format('woff'),
+        url('Zolina-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zolina';
+    src: url('Zolina-Regular.eot');
+    src: local('Zolina Regular'), local('Zolina-Regular'),
+        url('Zolina-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Zolina-Regular.woff2') format('woff2'),
+        url('Zolina-Regular.woff') format('woff'),
+        url('Zolina-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
