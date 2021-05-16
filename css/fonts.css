@@ -88,6 +88,47 @@
 
 
 /*
+ * Sabado
+================================================================================ */  
+@font-face {
+    font-family: "Sabado";
+    src: url('fonts/Sabado/Sabado.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+
+/*
+ * Futura
+================================================================================ */  
+@font-face {
+    font-family: 'futura-regular';
+    src: url('fonts/FuturaPT/FuturaPT-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'futura-italic';
+    src: url('fonts/FuturaPT/FuturaPT-MediumObl.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'futura-light';
+    src: url('fonts/FuturaPT/FuturaPT-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'futura-bold';
+    src: url('fonts/FuturaPT/FuturaPT-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/*
  * FIXED for Font-Face Chrome Rendering
 ================================================================================ */
 @media screen and (-webkit-min-device-pixel-ratio:0) {
