@@ -281,6 +281,11 @@ ul#nav li.current a { color: #2de4eb; }
    margin-top: 6px;
 }
 
+#resume .resume__list{
+   font-weight: bolder;
+   font-size: large;
+
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
