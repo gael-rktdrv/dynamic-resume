@@ -22,7 +22,11 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+html, body { 
+   background: #0f0f0f;
+   padding: 0;
+   margin: 0;
+}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -272,20 +276,22 @@ ul#nav li.current a { color: #2de4eb; }
    margin-bottom: 18px;
    margin-top: 9px;
 }
+
+/*
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
+*/
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
 
-#resume .resume__list{
-   font-weight: bolder;
-   font-size: large;
-
+.list { 
+   font-weight: bold;
 }
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
