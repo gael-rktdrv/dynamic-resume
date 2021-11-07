@@ -1,0 +1,90 @@
+/* [ FONT ] */
+/* Imported */
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&family=Katibeh&family=KoHo&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Nunito+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* ------------------------------------------------------------------ */
+/* a. Webfonts and Icon fonts
+ ------------------------------------------------------------------ */
+
+ @import url("fonts.css");
+ @import url("fontello/css/fontello.css");
+ @import url("font-awesome/css/font-awesome.min.css");
+
+.content {
+    width: 850px;
+    min-width: 150px;
+    text-align: justify;
+    align-content: center;
+    margin: auto;
+    min-height: 600px;
+    background-color: cadetblue;
+    position: relative;
+    padding: 20px;
+}
+input, textarea {
+    width: 100%;
+    display: block;
+    padding: 15px 15px;
+    margin: 0 0 20px 0;
+    align-items: center;
+}
+
+input[type=text] {
+/*     width: 50%;
+ */    
+    min-width: 1000px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+
+input[type=email] {
+/*     width: 50%;
+ */    
+    min-width: 150px;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 150px;
+    min-width: 150px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+/* 
+input[type="email"], textarea, select {
+    display: block;
+    padding: 15px 15px;
+    margin: 0 0 20px 0;
+    border: 0;
+    outline: none;
+    vertical-align: middle;
+    min-width: 225px;
+    max-width: 100%;
+    font-size: 15px;
+    line-height: 24px;
+    color: #647373;
+    background: #D3D9D9;
+}
+*/
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
